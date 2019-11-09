@@ -1,6 +1,6 @@
 # FriendlyChat
 
-This repository contains code for the FriendlyChat project
+This repository contains code for the FriendlyChat project.
 Try the app by installing app-debug.apk from above repo
 
 ## Overview
